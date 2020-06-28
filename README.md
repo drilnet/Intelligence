@@ -3,8 +3,8 @@
 
 <hr>
 
-## Интеллект. Искусственный интеллект"
-## Intelligence. Artificial Intelligence
+## <span title="Наведите курсор мыши на смайл!">Интеллект. Искусственный интеллект</span>
+## <span title="Наведите курсор мыши на смайл!">Intelligence. Artificial Intelligence</span>
 
 Лицензия (License): **GNU GPL V3**.
 
