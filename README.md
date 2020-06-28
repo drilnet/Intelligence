@@ -13,6 +13,9 @@
 
 ![](https://github.com/drilnet/Intelligence/blob/master/Smile.png "Подсказка: Логика!")
 
+**Примечание.**
+Смайлик из набора **Tango**.
+
 <hr>
 
 **Ещё репозитории автора:**
