@@ -3,8 +3,8 @@
 
 <hr>
 
-## <span title="Наведите курсор мыши на смайл!">Интеллект. Искусственный интеллект"</span>
-## <span title="Наведите курсор мыши на смайл!">Intelligence. Artificial Intelligence</span>
+## <div title="Наведите курсор мыши на смайл!">Интеллект. Искусственный интеллект"</div>
+## <div title="Наведите курсор мыши на смайл!">Intelligence. Artificial Intelligence</div>
 
 Лицензия (License): **GNU GPL V3**.
 
