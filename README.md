@@ -7,7 +7,7 @@
 
 Лицензия (License): **GNU GPL V3**.
 
-![рр](https://github.com/drilnet/Intelligence/blob/master/UA.png)
+![](https://github.com/drilnet/Intelligence/blob/master/UA.png)
 
 Наведите курсор мыши на смайл!
 
