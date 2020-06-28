@@ -11,5 +11,4 @@
 
 Наведите курсор мыши на смайл!
 
-
-![]()
+![Подсказка: Логика](https://github.com/drilnet/Intelligence/blob/master/Smile.png)
