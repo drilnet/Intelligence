@@ -11,4 +11,4 @@
 
 Наведите курсор мыши на смайл!
 
-![](https://github.com/drilnet/Intelligence/blob/master/Smile.png "Подсказка: Логика")
+![](https://github.com/drilnet/Intelligence/blob/master/Smile.png "Подсказка: Логика!")
