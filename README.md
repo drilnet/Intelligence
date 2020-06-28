@@ -6,7 +6,7 @@
 ## <span title="Наведите курсор мыши на смайл!">Интеллект. Искусственный интеллект</span>
 ## <span title="Наведите курсор мыши на смайл!">Intelligence. Artificial Intelligence</span>
 
-Лицензия (License): **GNU GPL V3**.
+Лицензия (License): **Free**.
 
 ![](https://github.com/drilnet/Intelligence/blob/master/UA.png)
 
