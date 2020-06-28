@@ -4,6 +4,7 @@
 <hr>
 
 ## Интеллект. Искусственный интеллект
+## Intelligence. Artificial Intelligence
 
 Лицензия (License): **GNU GPL V3**.
 
