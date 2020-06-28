@@ -18,8 +18,6 @@
 <br>
 Смайлик из набора **Tango**.
 
-[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
-
 <hr>
 
 **Ещё репозитории автора:**
