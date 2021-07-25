@@ -63,9 +63,11 @@
 &nbsp;&nbsp;&nbsp;&bull; [Усилитель звука на микросхеме
  TEA2025B](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B "Схема, печатная плата, собранная плата")
 <br>
+&nbsp;&nbsp;&nbsp;&bull; [Биполярный транзистор в ключевом режиме (формулы, расчёты)](https://github.com/drilnet/electronics/tree/master/Bipolar%20transistor%20in%20key%20mode "Формат файлов: LibreOffice (odt), pdf, TinyCAD (dsn), png, LTspice XVII (asc)")
+<br>
 &nbsp;&nbsp;&nbsp;&bull; [Ящик для экспонирования фоторезиста](https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist "Ящик из подручного материала")
 <br>
-&nbsp;&nbsp;&nbsp;&bull; [Делитель напряжения на двух резисторах (формулы, расчёты, калькулятор на HTML + JS)](https://github.com/drilnet/electronics/tree/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator) "Формулы, расчёты, калькулятор на HTML + JavaScript")
+&nbsp;&nbsp;&nbsp;&bull; [Делитель напряжения на двух резисторах (формулы, расчёты, калькулятор на HTML + JS)](https://github.com/drilnet/electronics/tree/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator) "Формат файлов: LibreOffice (odt, odf), pdf, TinyCAD (dsn), png, html, js")
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Стабилизированный блок питания +5В/1А, -5В/0.3A, +12В/0.5А, -12В/0.5А](https://github.com/drilnet/electronics/tree/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V "Трансформаторный (используемые микросхемы: L7805CV, L7905CV, L7812CV, L7912CV)")
 <br>
